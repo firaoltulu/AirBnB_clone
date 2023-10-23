@@ -1,0 +1,12 @@
+/* Author: Firaol Tulu */
+footer {
+    text-align: center;
+    height: 60px;
+    display: flex;
+    width: 100%;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    background-color: #00FF00;
+}
